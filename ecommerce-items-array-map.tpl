@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Ecommerce Items Array Map",
+  "categories": ["UTILITY", "TAG_MANAGEMENT"],
   "description": "This template will help you map ecommerce items data as either a single-value array or an array of objects.",
   "containerContexts": [
     "WEB"
