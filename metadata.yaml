@@ -1,4 +1,4 @@
 homepage: "https://www.example.com"
 versions:
-  - sha: 864cdf2e220610dcd262759419f7375704455770
+  - sha: 0e993c92376ca2442e3eb87db9e4d85a229b59ea
     changeNotes: Initial release.
