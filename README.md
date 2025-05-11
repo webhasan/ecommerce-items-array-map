@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Download the file: **`ecommerce-items-array-map.tpl`**
+1. Download the file: **`template.tpl`**
 2. In Google Tag Manager, navigate to the **Templates** section and click **New** under **Variable Templates**
 3. In the template editor, click the **three-dot menu** in the top-right corner and select **Import**
 4. Select the downloaded `ecommerce-items-array-map.tpl` file from your computer
